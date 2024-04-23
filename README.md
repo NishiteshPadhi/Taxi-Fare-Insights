@@ -5,6 +5,7 @@ The goal of this project is to analyze New York taxi data to understand tipping 
 
 ## Technology Used
 - Programming Language - Python
+- Data Modeling - Lucid App
 - Visualistion Tool - Looker Studio
 
 ## Dataset Used
